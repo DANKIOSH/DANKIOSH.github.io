@@ -13,7 +13,7 @@ Welcome to Dankiosh's IT Toolbox! This repository is a collection of tools and s
 
 ## Introduction
 
-Dankiosh's IT Toolbox is a curated set of utilities and scripts designed to streamline tasks related to Python programming, Linux administration, and Networking challenges.
+Dankiosh's IT Toolbox is a curated set of utilities and scripts designed to streamline tasks related to Python programming, Linux administration, Graphic Design, Bash Scripting and Networking challenges.
 
 ## Features
 
